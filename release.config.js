@@ -1,6 +1,6 @@
 const config = {
   // for branch releases
-  branches: ["main", "develop"],
+  branches: ["main"],
   plugins: [
     "@semantic-release/release-notes-generator",
     [
