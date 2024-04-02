@@ -6,7 +6,7 @@ import AppRouter from "./router";
 
 const App = () => {
   useApp();
-  // sdasdsa
+  // 0.1.0
   return <AppRouter />;
 };
 
